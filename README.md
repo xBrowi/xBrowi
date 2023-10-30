@@ -1,4 +1,8 @@
-### Hi there 👋
+### About me
+* Currently learning C++
+* 18 years old
+* I enjoy deep sky astrophotography
+* I do a lot of maths and physics
 
 <!--
 **xBrowi/xBrowi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
