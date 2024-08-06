@@ -1,5 +1,5 @@
 ### About me
-* Currently learning C++
+* Always learning C++
 * 18 years old
 * I enjoy deep sky astrophotography
 * Maths, physics, and computer science are my things
