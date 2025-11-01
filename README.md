@@ -1,8 +1,8 @@
 ### About me
-* Always learning C++
-* 18 years old
-* I enjoy deep sky astrophotography
-* Maths, physics, and computer science are my things
+* Physics BSc student
+* Deep sky astrophotographer
+* 20 years old
+* Maths, physics, and computer science enjoyer
 
 <!--
 **xBrowi/xBrowi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
